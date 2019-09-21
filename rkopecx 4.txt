@@ -1,3 +1,4 @@
 Zadanie czwarte.
+Gałąź A: 1 2 3 4 5 6
 Gałąź B: 1 2
 Gałąź C: 1 2
