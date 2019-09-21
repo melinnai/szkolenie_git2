@@ -1,1 +1,2 @@
 No czesc
+Szkolenie jest GIT
