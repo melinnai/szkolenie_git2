@@ -1,1 +1,2 @@
 Szkolenie git
+kolejny commit w szkoleniu git
