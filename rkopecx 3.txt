@@ -1,3 +1,4 @@
 Zadanie trzecie.
+Branch główny odliczamy: 1 2
 Branch poboczny odliczamy: 1 2 3 4
 Branch najpoboczniejszy odliczamy: 1 2
