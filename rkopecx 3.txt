@@ -1,2 +1,2 @@
 Zadanie trzecie.
-Branch poboczny odliczamy: 1 2
+Branch najpoboczniejszy odliczamy: 1
