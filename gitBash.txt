@@ -1,1 +1,2 @@
-Pierwszy commit
+Pierwszy commit.
+A moze jednak drugi?
